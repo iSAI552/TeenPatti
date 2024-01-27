@@ -1,0 +1,17 @@
+{
+  "name": "teenpatti",
+  "version": "1.0.0",
+  "description": "A fun game of 3Patti made for friends",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Game",
+    "backend",
+    "Goblin",
+    "3Patti"
+  ],
+  "author": "Sai",
+  "license": "ISC"
+}
